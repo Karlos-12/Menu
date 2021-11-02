@@ -40,10 +40,7 @@ namespace Menu
                     Console.Clear();
                     Menu(hg);
                     
-                }
-
-
-                
+                }                
             }
             while (true);
             }
